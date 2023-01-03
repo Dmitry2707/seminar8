@@ -1,0 +1,15 @@
+/Users/dmitrij/Desktop/seminar8/seminar8/bin/Debug/net6.0/seminar8
+/Users/dmitrij/Desktop/seminar8/seminar8/bin/Debug/net6.0/seminar8.deps.json
+/Users/dmitrij/Desktop/seminar8/seminar8/bin/Debug/net6.0/seminar8.runtimeconfig.json
+/Users/dmitrij/Desktop/seminar8/seminar8/bin/Debug/net6.0/seminar8.dll
+/Users/dmitrij/Desktop/seminar8/seminar8/bin/Debug/net6.0/seminar8.pdb
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/seminar8.csproj.AssemblyReference.cache
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/seminar8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/seminar8.AssemblyInfoInputs.cache
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/seminar8.AssemblyInfo.cs
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/seminar8.csproj.CoreCompileInputs.cache
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/seminar8.dll
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/refint/seminar8.dll
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/seminar8.pdb
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/seminar8.genruntimeconfig.cache
+/Users/dmitrij/Desktop/seminar8/seminar8/obj/Debug/net6.0/ref/seminar8.dll
